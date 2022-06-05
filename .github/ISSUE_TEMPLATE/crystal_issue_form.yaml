@@ -1,7 +1,7 @@
 name: Full Stack Elixir Path
 description: File a bug report
-title: "[Elixir]: "
-labels: ["elixir path", "triage"]
+title: "[Crystal]: "
+labels: ["crystal path", "triage"]
 assignees:
   - Loki
 body:
