@@ -17,22 +17,22 @@ body:
       placeholder: ex. odinite#1234
     validations:
       required: false
-#    - type: input
-#       id: lesson-link
-#       attributes:
-#         label: Lesson Url
-#         description: A link to the relevant lesson 
-#         placeholder: ex. https://www.theodinproject.com/lessons/ruby-how-this-course-will-work
-#     validations:
-#       required: true
-#   - type: textarea
-#     id: suggested-changes
-#     attributes:
-#       label: Content Suggestion
-#       description: A short description of the change 
-#       placeholder: ex Fix a broken link, add an extra resource
-#     validations:
-#       required: true
+   - type: input
+      id: lesson-link
+      attributes:
+        label: Lesson Url
+        description: A link to the relevant lesson 
+        placeholder: ex. https://www.theodinproject.com/lessons/ruby-how-this-course-will-work
+    validations:
+      required: true
+  - type: textarea
+    id: suggested-changes
+    attributes:
+      label: Content Suggestion
+      description: A short description of the change 
+      placeholder: ex Fix a broken link, add an extra resource
+    validations:
+      required: true
 #   - type: checkboxes
 #     id: terms
 #     attributes:
