@@ -1,0 +1,47 @@
+name: Full Stack Elixir Path
+description: File a bug report
+title: "[Elixir]: "
+labels: ["elixir path", "triage"]
+assignees:
+  - Loki
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to make a suggestion!
+#   - type: input
+#     id: contact
+#     attributes:
+#       label: (Optional) Discord Name
+#       description: Optionally provide your discord name to help co-ordinate changes
+#       placeholder: ex. odinite#1234
+#     validations:
+#       required: false
+#    - type: input
+#       id: lesson-link
+#       attributes:
+#         label: Lesson Url
+#         description: A link to the relevant lesson 
+#         placeholder: ex. https://www.theodinproject.com/lessons/ruby-how-this-course-will-work
+#     validations:
+#       required: true
+#   - type: textarea
+#     id: suggested-changes
+#     attributes:
+#       label: Content Suggestion
+#       description: A short description of the change 
+#       placeholder: ex Fix a broken link, add an extra resource
+#     validations:
+#       required: true
+#   - type: checkboxes
+#     id: terms
+#     attributes:
+#       label: Code of Conduct
+#       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+#       options:
+#         - label: I agree to follow this project's Code of Conduct
+#           required: true
+#         - label: I have read the contributing guide
+#           required: true
+#         - label: I would be like to work on this issue
+#           required: false
