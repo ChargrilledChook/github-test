@@ -9,14 +9,14 @@ body:
     attributes:
       value: |
         Thanks for taking the time to make a suggestion!
-#   - type: input
-#     id: contact
-#     attributes:
-#       label: (Optional) Discord Name
-#       description: Optionally provide your discord name to help co-ordinate changes
-#       placeholder: ex. odinite#1234
-#     validations:
-#       required: false
+  - type: input
+    id: contact
+    attributes:
+      label: (Optional) Discord Name
+      description: Optionally provide your discord name to help co-ordinate changes
+      placeholder: ex. odinite#1234
+    validations:
+      required: false
 #    - type: input
 #       id: lesson-link
 #       attributes:
