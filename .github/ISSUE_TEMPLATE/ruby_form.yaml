@@ -19,6 +19,18 @@ body:
           required: true
         - label: I would be like to work on this issue
           required: false
+  - type: dropdown
+    id: path
+    attributes:
+      label: Path
+      description: Which path does your suggestion affect?
+      options:
+        - Foundations
+        - Ruby / Rails
+        - Node / JS
+        - n/a
+    validations:
+      required: true
   - type: input
     id: lesson-link
     attributes:
