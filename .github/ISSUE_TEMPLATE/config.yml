@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.community/
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: The Odin Project Website Repository
+    url: https://github.com/TheOdinProject/theodinproject
+    about: "For changes to website functionality, check out Odin's web app repository"
+  - name: Contact the Odin Team
+    url: mailto:theodinprojectcontact@gmail.com
+    about: For any other general enquiries, email the team here
