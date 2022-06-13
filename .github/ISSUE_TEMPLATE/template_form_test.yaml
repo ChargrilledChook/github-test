@@ -1,5 +1,5 @@
 name: GH Form example
-description: File a bug report
+description: File a bug report (This is the default / example template)
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
