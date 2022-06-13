@@ -1,8 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: The Odin Project Website Repository
+  - name: Changes to Website Functionality
     url: https://github.com/TheOdinProject/theodinproject
     about: "For changes to website functionality, check out Odin's web app repository"
-  - name: Contact the Odin Team
-    url: mailto:theodinprojectcontact@gmail.com
-    about: For any other general enquiries, email the team here
+
