@@ -3,4 +3,6 @@ contact_links:
   - name: Changes to Website Functionality
     url: https://github.com/TheOdinProject/theodinproject
     about: "For changes to website functionality, check out Odin's web app repository"
-
+  - name: Ideas, Content Requests and Questions
+    url: https://github.com/TheOdinProject/curriculum/discussions
+    about: "Any ideas, requests or features that don't fit into the above? Start a disccusion here"
