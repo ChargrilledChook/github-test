@@ -1,0 +1,4 @@
+name: General / Other Technical Content
+description: "Changes concerning git, installations, Ubuntu or other technical content that doesn't fit into other categories"
+title: "[General Technical]: "
+labels: ["needs review"]
